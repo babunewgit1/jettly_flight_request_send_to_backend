@@ -1,1 +1,8 @@
 এখন এ যে ২ টা ফাইল আছে ঐ ২ টা ফাইল jettly website এর সব থেকে আপডেট ফাইল । ১৫০ ডলার মানে flight request id পাঠানোর আগের সব আপডেট কোড এই ২ টা ফাইল এ আছে । এই ২ টা ফাইল flight request id পাঠানোর  সমই modify করা হইছে । olduility.html ফাইল এ সব js কোড script ট্যাগ দিয়ে আলাদা করা ছিল । আর এই ফাইল টা গ্লোবাল ফাইল মানে সাইট এর কাস্টম কোড এ use করতে হবে page এর কাস্টম কোড এ না ।
+
+
+
+https://29101afcd41198dafcdd8b88cbac692a.cdn.bubble.io/f1743936124017x988991583593504600/search.js?_gl=1*1g1ipik*_gcl_au*MTkxNjY5ODM2MC4xNzQxMzk0Mjg0*_ga*ODUzMjM4OTExLjE3MDAxMjE1Mzc.*_ga_BFPVR2DEE2*MTc0MzkzMjk2My41NDEuMS4xNzQzOTM2MjA1LjYwLjAuMA..
+
+
+search.js file latest cdn 
